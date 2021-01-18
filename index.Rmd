@@ -4,7 +4,7 @@ author: "Mike Nguyen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib, packages.bib,references.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Handbook on Communication Theories for both interpersonal and interorganizational communications."
@@ -19,6 +19,8 @@ Course | Professor
 Interpersonal Communication | Haley Horstman 
 Organizational Communication | Debbie Dougherty
 
+
+Communication is defined as the exchange of messages. 
 
 
 ```{r eval=FALSE}

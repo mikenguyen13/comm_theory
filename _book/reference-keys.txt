@@ -1,4 +1,7 @@
 prerequisites
 intro
+individually-centered
+interactiondiscourse-centered
+relationship-centered
 methods
 final-words
