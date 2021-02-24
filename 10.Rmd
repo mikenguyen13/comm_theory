@@ -1,3 +1,259 @@
-# Final Words
+# Perspectives on Organizational Communication
 
-We have finished a nice book.
+
+<br>
+
+
+[@Mumby_1996]
+Organizational communication as a discipline can be looked under the framework of 4 problematics.  
+
+The problematic of:  
+
+ 1. voice: characterized by multiple voices, not only managerial.  
+        + organizational communication cultivates tensions between university and firms, rather than resolving it.  
+        + how voices can gain insight into marginalized groups.  
+ 2. rationality  
+        + pluralist understandings 
+        + technical rationality: "knowledge that privileges a concern with prediction, control and teleological forms of behavior".  
+        + Practical rationality: "knowledge grounded in the human interest in interpreting and experiencing the word as meaningful and intersubjectively constructed"  
+ 3. organization  
+        + The question of organization is fundamental in organizational communication.  
+        + the complex structure of organizing, culture and larger social processes.  
+ 4. organization-society relationship  
+        + organizational boundaries (separation between organization and society) cannot be clearly defined due to its fluid nature.  
+        + can study the dynamics nature of globalization.  
+        + communication is not just information exchange, but it is the core of organizing where organization structure is dynamically created.  
+
+
+<br>
+
+[@Broadfoot_2007]  
+We might have been myopic when only interpret and look at organizational communication from the perspective of Euro-American intellectual tradition. hence, we need to have alternative, rationalities, and perspectives.  
+
+Due to [@Mumby_1996], there are four major problematics in organizational communication:  
+
+ * Voice: who gets to speak for whom  
+ * Rationality: 2 forms of rationalities: technical/instrumental and practical and the consequences.   
+ * Organization: members create meaning through communication.   
+ * Organization-society relationship: it's hard to distinguish between the two, hence we should study in conjunction.    
+
+there is a new shift to the non-American voices: A Postcolonial awakening.  
+
+Postcolonial self-reflexivity: a resistance from Eurocentric perspective.  
+
+
+<br>
+
+
+
+[@Shome_1996] defines Discursive confinement as "a state where difference and individuality are eased or neutralized and scholars become confined to a narrow and marginalized discursive space constructed by dominant mainstream structures and ideologies". Hence, we should break through the discipline and embed individuality through emotionality.  
+
+We can see the shift in areas such as gender, race, and globalization.  
+
+A postcolonial exploration: different perspective can contribute richly to the understanding organizational communication.  
+
+
+<br>
+
+[@Cheney_2007]
+
+
+Identity: from business. flow of information between stakeholders.  
+
+Breaking boundaries: expand to other issues such as informal network, social movements, etc.
+
+Opportunities from social problems: shift from basic research to focus on society and planet.  
+
+Ethos and Confidence: The discipline of organizational communication as well as communication are constantly in need to prove for its legitimacy.  
+
+Audiences: various outlets, but mostly focus on research publication due to the need for tenure.  
+
+To get beyond the pressure for tenure, the author suggests:  
+
+ * choose an issue that you care.  
+ * listen/read well from various perspectives   
+ * choose appropriate outlets.  
+ * set everyday goal.  
+ * practice what you preach  
+ * lead by example  
+ * do not give up  
+ * pause and reflect.  
+
+
+
+
+
+
+[@DUrso_2014]
+
+History (genealogy) of organizational communication with the method of network analysis.  
+
+Author posted several research questions that could use the network analysis method to probe into such as collaboration and coauthorship, and overall development of organizational communication.  
+
+<br>
+
+
+[@Leonardi_2016]
+
+the strategy of subordination taken by organizational communication researchers are those that look at a phenomena from the perspective of organizational communication, which leads to small contribution to the literature.  
+
+
+To know if a one owns a phenomenon is when people know to turn to you when they wan to understand such phenomenon .  
+
+
+
+### Strategy of Discovery
+
+2 steps:  
+
+ 1. Phenomenon is communication  
+ 2. What communication does and why  
+
+### Strategy of Reconceptualizatinon
+
+2 steps:  
+
+ 1. Contradictory evidence or poor explanation  
+ 2. Communications leads to better fit (e.g., accuracy or novelty)  
+
+
+<br>
+
+
+
+# Organizational Culture
+
+[@Martin_1983]
+
+Culture:  
+
+ * based on history, members can behave and expected to behave  
+ * help construct common value for employees.  
+ * control mechanisms which dictate patterns of behavior  
+
+
+culture can hardly be under control, not monolithic phenomenon
+
+
+3 levels of culture:  
+
+ + basic assumptions  
+ + values/ideology  
+ + artifacts (e.g., stories, rituals, dress): express values  
+ + management practices (e.g., training program).  
+
+Types of subcultures:  
+
+ + enhancing: same position  
+ + orthogonal: unrelated position  
+ + counterculture: opposite position: "most likely to arise in a strongly centralized institution that has permitted significant decentralization of authority to occur"  (e.g., GM's culture: team players, loyalty, "refrigerator story"), balancing act must be taken to manage counter culture and dominant culture
+
+
+<br>
+
+[@Dixon_2009]
+multiple meanings of organizational culture  
+
+Consulting method: in-depth and focus group interviews with student staff, artifact analysis, and observation of organization staff meetings and retreats  
+
+Common terms did not mean the same thing.  2 different fields: organizational communication, and higher education.  
+
+ * Organization culture: "German approach, based in phenomenological/Interpretive epistemology". culture is the product of symbolic interaction. Scholars tries to understand the role of human interaction.  organizational culture is not easily manipulated by managers. " organization is a culture". purposes:  
+        + increasing productivity  
+        + understanding organizational processes  
+        + critiquing oppressive organizational practices.
+ * organizational culture: American  approach to study organizational variable that affect  organizational effectiveness. "organization has a culture". can be quantified, and manipulated.   
+        + Institution can be measured: dynamism vs. stability and internal vs. external focus.  
+
+two subculture: First-born (tradition, consensus) and Youngest (debate, and new ideas)
+
+The problem stems from different discipline understanding of "culture", there was a rejection of the definition by organizational communication scholars. 
+
+" Rather than positing that there is one “right” concept, we would encourage other consultants to proactively discuss with clients, what key terms mean to them in the particularity of their context, as a means of creating a “shared discursive” reality."
+
+<br>
+
+[@Leonardi_2008]
+mergers between two technology companies 
+
+cultural studies of postmerger integration 
+
+A core technology is "the primary technology produced, serviced, or sold by an organization".
+
+technological grounding suggests that "an organization’s core technologies are, along with the work and communication practices enacted daily by members, a constitutive feature of its culture"  
+
+two dominant perspectives for understanding culture that exist in organizational literature:  
+
+ * as a variable that can be changed.  
+        + technology is a variable . The two variables are distinct and can be either internal or external based on researchers' perspective.  
+ * culture is organization.  
+        + in postmerger, organizations face cultural convergence. 
+        + technology is not a variable but a practice. 
+        + "When technologies are sufficiently important to an organization to become key elements in the constitution of a culture, we refer to that organization as technologically grounded. " (a continuum not dichotomy).  
+        + "technological incompatibility implies the incompatibility of organizational cultures and practices"
+
+Method:  a single case design, embedded design:  
+
+levels of analysis  
+ (1) public discourse from company officials about the merger, 
+ (2) organizational practices and policies before and after the merger 
+ (3) worker responses during postmerger integration
+
+
+
+US West built its culture on the West culture use analog data  
+Qwest built its culture on speed  use digital data (all internet protocol - IP)  
+
+Qwest consumed US West's culture (e.g., bureaucracy) due to its  technological superiority and cultural superiority in postmerger integration
+
+Qwest shut down US West's Research Labs. 
+
+
+## 4
+
+Chapter 4: Communicating Organizational Culture: A Problem-Solving Model. 
+
+Communication: is about creating message, production and reproduction of meaning.   
+
+Organizations are communication.  
+
+Gestalt Theory (figure and ground): sometimes the important part is thought of as the background   
+
+Organizational culture is an active process that shape organizations.   
+
+organizational culture is defined "as the shared communicative process through which meanings are constantly employed, negotiated, and contested to create a stable communication environment within which organizational life becomes patterned and persistent over time."
+
+organizational cultures does not mean shared meaning but **shared process of meaning making**. 
+
+
+Forms of communication:   
+
+ * info sharing  
+ * message production  
+ * meaning making  
+
+
+organizational values as "those things, standards, and ideals through which we evaluate our organizational wellbeing".   
+
+Types of values:  
+
+ * Personal values  
+ * Moral values  
+ * Aesthetic values  
+ * Status values: power allocation.    
+ 
+ Organizational meanings  
+ 
+  * Cognitive meanings  
+  * Emotional meanings: people might mistakenly consider irrationality as emotionality.    
+  * Social meanings  sensemaking theory  
+  * Identity meanings  cultural contract theory of identity. 3 types of cultural contracts:  
+        + ready-to-sign contracts: assimilation (physical, behavioral,a nd mental assumption of dominant culture).  
+        + Quasi-completed contracts: allows adaption  
+        + Cocreated contracts: mutual valuation.  
+  * Power meanings  
+        + can derived from formal hierarchy  
+        + or from relationships (as opposed to isolation).  
+
+
+

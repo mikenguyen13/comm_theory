@@ -1,4 +1,4 @@
---- 
+---
 title: "Communication Theories"
 author: "Mike Nguyen"
 date: "`r Sys.Date()`"
@@ -12,23 +12,20 @@ description: "Handbook on Communication Theories for both interpersonal and inte
 
 # Prerequisites
 
-This book is based on the two communications seminars  
+This book is based on the two communications seminars
 
-Course | Professor 
-:-:|:-:
-Interpersonal Communication | Haley Horstman 
-Organizational Communication | Debbie Dougherty
+|            Course            |    Professor     |
+|:----------------------------:|:----------------:|
+| Interpersonal Communication  |  Haley Horstman  |
+| Organizational Communication | Debbie Dougherty |
 
-
-Communication is defined as the exchange of messages. 
-
+Communication is defined as the exchange of messages.
 
 ```{r eval=FALSE}
 install.packages("bookdown")
 # or the development version
 # devtools::install_github("rstudio/bookdown")
 ```
-
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

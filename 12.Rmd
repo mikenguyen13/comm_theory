@@ -1,0 +1,106 @@
+# Organizational Change
+
+[@Lewis_2019] Organizations are "socially constructed largely through the communicative interactions of internal and external stakeholders".\
+Stakeholders are those "who have a stake in an organization's process and or outputs".\
+Ripple effects are "the impacts that organizational actions and presence bring to stakeholders within and surrounding the organization".
+
+Even though the fad nature of society values change and associate with positive terms, compared to negative connotations of stability. However, changes does not equate good.\
+Triggers for organizational changes:\
+(external)
+
+-   Legal requirements\
+-   Stakeholders\
+-   Current business, societal, environmental trends\
+-   Technologies\
+-   Availability of financial resources\
+-   Alteration of relationship, powers, and global economy.
+
+(internal)
+
+-   innovation
+-   serendipity
+
+Communication is key for changes because not until stakeholders recognize and communicate change that it materializes in an organization.
+
+Sensemaking is both "authoring" and interpretation [@Lewis_2019]. Communication among stakeholders is at the hart of change processes in organizations because of this highly social process of making sense of what is going on and "spinning it into narratives and theories of the world around us." [@Lewis_2019].
+
+Costs of change:
+
+-   Financial\
+
+-   Opportunities:
+
+    -   Lost productivity\
+    -   Lost time in training works\
+    -   Workflow
+    -   Loss of high value stakeholders.\
+
+-   Miscommunication: Confusion, fatigue.\
+
+-   Brand
+
+[@Zorn_1999, p.10] define organizational change as "any alteration or modification of organizational structures or processes."
+
+Process of change:
+
+-   Innovation: (creating) idea generation\
+-   Adoption: (deciding) formal decision by leaders\
+-   Diffusion: (sharing) sharing of ideas.\
+-   Implementation: "the translation of any tool or technique, process, or method of doing, from knowledge to practice." [@Tornatzky_1982]
+-   Discontinuation: later, changes will become obsolete and a new cycle begins.
+
+Communication is at the heart of all of these phases.
+
+For relationships between innovation, diffusion, adoption, and implementation, check [@Lewis_2019, pp. 35]
+
+Types of Organizational change:
+
+-   Planned vs. unplanned changes
+
+-   Objects that are changed (e.g., technologies, programs, policies, processes, personal). But not good in practice due to blur lines among these objects.
+
+-   Discursive change (i.e., new label for old things to fake change) vs. material change (i.e., real changes in terms of operations, practices, relationships, decision-making) [@Zorn_1999, pp.10]\
+
+-   Size and scope of change [@Bartunek_1987] (however, size and scope can be subjective):
+
+    -   First-order changes: small\
+    -   Second-order changes: large transformations, disruptive\
+    -   Third-order changes: continuous change.
+
+Combinations of these types of organizational change can be viewed in [@Lewis_2019, pp. 42]
+
+Complexity of change within organizations:
+
+-   Interdependence: " The degree to which stakeholders impact the lives of other stakeholders as they engage change." [@Lewis_2019]
+
+    -   Sequential Interdependence: Stakeholders affect one another in sequence (e.g., assembly line).\
+    -   Reciprocal interdependence: stakeholder's input are another stakeholder's outputs and vice versa. (e..g, co-authors).\
+
+-   organizational structures:
+
+    -   Structures: are rules and resources (e.g., information, status, organizational beliefs, ) that create organizational practices\
+
+    -   Types of Structures:
+
+        -   Decision-making patterns\
+        -   Decision0making processes\
+        -   Ladders of authority\
+        -   Role relationships\
+        -   Information-sharing norms\
+        -   Communication networks\
+        -   Reward system\
+
+-   Politics
+
+Key processes in communication of planned change
+
+-   Dissemination of information\
+-   Soliciting input\
+-   Socialization
+
+Types of communication in change implementation
+
+-   Formal Communication\
+-   Informal Communication: "includes spontaneous interactions of stakeholders with each other, with implementers, and with non-stakeholders."
+
+Although we talked in this book extensively about change. However, changes are not always good. Sometimes, traditions are in place for a reason or reasons: If something works for a long time, it is likely to be robust. More on this idea can be read in Nassim Taleb's books.
