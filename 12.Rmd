@@ -1,106 +1,135 @@
-# Organizational Change
+# Emotions and Organizing
 
-[@Lewis_2019] Organizations are "socially constructed largely through the communicative interactions of internal and external stakeholders".\
-Stakeholders are those "who have a stake in an organization's process and or outputs".\
-Ripple effects are "the impacts that organizational actions and presence bring to stakeholders within and surrounding the organization".
+[@Mumby_1992]
 
-Even though the fad nature of society values change and associate with positive terms, compared to negative connotations of stability. However, changes does not equate good.\
-Triggers for organizational changes:\
-(external)
+bounded rationality was developed around patriarchal modes of organizing.
 
--   Legal requirements\
--   Stakeholders\
--   Current business, societal, environmental trends\
--   Technologies\
--   Availability of financial resources\
--   Alteration of relationship, powers, and global economy.
+-   Deconstruction benefits feminism:
 
-(internal)
+    -   "exposes the political nature of categories" (e.g., nature, and gender)
 
--   innovation
--   serendipity
+    -   exposes oppressive system of hierarchy by challenging dichotomous thinking.
 
-Communication is key for changes because not until stakeholders recognize and communicate change that it materializes in an organization.
+    -   helps rethinking power and identity
 
-Sensemaking is both "authoring" and interpretation [@Lewis_2019]. Communication among stakeholders is at the hart of change processes in organizations because of this highly social process of making sense of what is going on and "spinning it into narratives and theories of the world around us." [@Lewis_2019].
+-   Bounded emotionality was created to challenge bounded rationality, but not to be its opposite.
 
-Costs of change:
+-   bounded rationality grounded in "satisficing"
 
--   Financial\
+-   four premises of feminist view on bounded rationality:
 
--   Opportunities:
+    -   the centrality of the cognitive metaphor
 
-    -   Lost productivity\
-    -   Lost time in training works\
-    -   Workflow
-    -   Loss of high value stakeholders.\
+    -   the emphasis on a mind-body dualism
 
--   Miscommunication: Confusion, fatigue.\
+    -   the devaluing of physical labor
 
--   Brand
+    -   the treatment of emotion as a form a labor
 
-[@Zorn_1999, p.10] define organizational change as "any alteration or modification of organizational structures or processes."
+-   [@hochschild2012] defined emotional labor as "the way individuals change or manage emotions to make them appropriate
+    or consistent with a situation, a role or an expected organizational behavior."
 
-Process of change:
+    -   emotional labor becomes a commodity for organization to achieve its goal.
 
--   Innovation: (creating) idea generation\
--   Adoption: (deciding) formal decision by leaders\
--   Diffusion: (sharing) sharing of ideas.\
--   Implementation: "the translation of any tool or technique, process, or method of doing, from knowledge to practice." [@Tornatzky_1982]
--   Discontinuation: later, changes will become obsolete and a new cycle begins.
+    -   *However, I disagree with this idea because people can be happier even when they fake smile.*
 
-Communication is at the heart of all of these phases.
+-   bounded emotionality is "an alternative mode of organizing in which nurturance, caring, community, supportiveness,
+    and interrelatedness are fused with individual responsibility to shape organizational experience."
 
-For relationships between innovation, diffusion, adoption, and implementation, check [@Lewis_2019, pp. 35]
+-   bounded emotionality also tries to reduce emotional labor and gendered divisions of labor (e.g., women can express
+    work feeling).
 
-Types of Organizational change:
+After reading this piece, I was still not convinced that bounded rationality is rooted in patriarchy. Authors argued
+that since previous researchers are so embedded in the bureaucratization of organization that they don't realize
+power-knowledge relationship.
 
--   Planned vs. unplanned changes
+<br>
 
--   Objects that are changed (e.g., technologies, programs, policies, processes, personal). But not good in practice due to blur lines among these objects.
+[@Kramer_2002]
 
--   Discursive change (i.e., new label for old things to fake change) vs. material change (i.e., real changes in terms of operations, practices, relationships, decision-making) [@Zorn_1999, pp.10]\
+Emotion management in organization:
 
--   Size and scope of change [@Bartunek_1987] (however, size and scope can be subjective):
+-   at the center is "professionalism"
+-   both positive and negative emotions, need to be display in appropriate ways
+-   the appropriate way of displaying negative emotions is masking them.
+-   using emotions to help others, not for oneself.
 
-    -   First-order changes: small\
-    -   Second-order changes: large transformations, disruptive\
-    -   Third-order changes: continuous change.
+Emotions are typically understood in terms of expectancy violation
 
-Combinations of these types of organizational change can be viewed in [@Lewis_2019, pp. 42]
+Organizations are indoctrinated to favor positive emotions.
 
-Complexity of change within organizations:
+<br>
 
--   Interdependence: " The degree to which stakeholders impact the lives of other stakeholders as they engage change." [@Lewis_2019]
+[@Rivera_2014]
 
-    -   Sequential Interdependence: Stakeholders affect one another in sequence (e.g., assembly line).\
-    -   Reciprocal interdependence: stakeholder's input are another stakeholder's outputs and vice versa. (e..g, co-authors).\
+Using the framework of emotional taint to understand dirty works (e.g., border patrol).
 
--   organizational structures:
+Sometimes dirty work does not exclusively relate to physical or danger activities but include those social taint (e.g.,
+exotic dancers)
 
-    -   Structures: are rules and resources (e.g., information, status, organizational beliefs, ) that create organizational practices\
+Emotional labor "includes outward performances of emotions" (e.g., smiling, yelling, showing no emotions) is socially
+constructed.
 
-    -   Types of Structures:
+Sensemaking of identities, dirty work by using past works.
 
-        -   Decision-making patterns\
-        -   Decision0making processes\
-        -   Ladders of authority\
-        -   Role relationships\
-        -   Information-sharing norms\
-        -   Communication networks\
-        -   Reward system\
+This line of work (e.g., law enforcement) prefers more masculine emotional labor (e.g., use of force continuum)
 
--   Politics
+Stoicism is a form of emotional labor. Emotional labor is dirty work.
 
-Key processes in communication of planned change
+Criticism of feminine care work and compassion, which is parallel to men's struggle with perception of sexuality when
+they act caring
 
--   Dissemination of information\
--   Soliciting input\
--   Socialization
+Making sense of taint by expressing tensions:
 
-Types of communication in change implementation
+-   Agents are at the crossroad of society's view of their work (e.g., positive and negative)
+-   They have to switch between 2 types of emotional labor (e.g., stoicism and compassion)
 
--   Formal Communication\
--   Informal Communication: "includes spontaneous interactions of stakeholders with each other, with implementers, and with non-stakeholders."
+Emotional Taint Management:
 
-Although we talked in this book extensively about change. However, changes are not always good. Sometimes, traditions are in place for a reason or reasons: If something works for a long time, it is likely to be robust. More on this idea can be read in Nassim Taleb's books.
+-   Strategically engage in different emotions
+
+<br>
+
+[@Jia_2016]
+
+-   emotions are expressed through communication
+
+-   supervisor nonverbal immediacy influences subordinates' emotional experience (e.g., emotion work, and perceived
+    emotional support)
+
+-   Emotional response theory: people respond to external environmental stimuli (e.g., emotion inducing factor -
+    nonverbal immediacy by supervisors).
+
+-   According to [@Mehrabian_1967], nonverbal immediacy are "communicative behaviors used to enhance physical or
+    psychological closeness and reduce interpersonal distance" (e.g., touching, nodding, smiling).
+
+-   [@titsworth2010] defined three dimensions of student emotional experience in response to teacher communication:
+
+    -   Emotional valance: positive/negative reactions
+
+    -   Emotion work: intentional management of emotional expression, could lead to emotional exhaustion or burnout
+
+    -   Emotional support: perception of receiving emotional support
+
+-   "Supervisor NI will be positively correlated with subordinates' perceptions of received emotional support from the
+    supervisor"
+
+-   According to [@RUBIN_1988], based on goal-oriented behaviors, there are six motives for interpersonal communication:
+
+    -   relationally oriented motives (used to facilitate positive encounters)
+
+        -   pleasure
+
+        -   affection
+
+        -   relaxation
+
+        -   inclusion
+
+    -   personal-influence motives (used to manage interaction)
+
+        -   escape
+
+        -   control
+
+-   Supervisor NI enhance employees' received emotional support, and reduce employees' engagement in emotion work

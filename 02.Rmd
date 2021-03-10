@@ -2,85 +2,99 @@
 
 History
 
--   Cornell School: study of speech from a humanities perspective\
+-   Cornell School: study of speech from a humanities perspective
 -   Midwestern School: study speech as a science
 
-According to [@Baxter_2008], interpersonal communication is "the production and processing of verbal and nonverbal messages between two or a few persons".
+According to [@Baxter_2008], interpersonal communication is "the production and processing of verbal and nonverbal
+messages between two or a few persons".
 
 Three perspectives to study interpersonal communication [@Baxter_2008]
 
--   [Individually Centered]\
--   [Interaction/discourse Centered]\
+-   [Individually Centered]
+-   [Interaction/discourse Centered]
 -   [Relationship Centered]
 
-Theory and data should be an interactive process. We should understand the conceptual boundaries of a theory, we should not apply it everywhere, generously improve it or dismiss it. Usually, there aren't one ultimate theory that has its own sovereignty [@Higgins_2004]. Each theory has its own assumptions. "Making different predictions is not hte same as making competing predictions". [@Higgins_2004]. a phenomenon can be explained by multiple theories, with different reasons, which shows its robustness.
+Theory and data should be an interactive process. We should understand the conceptual boundaries of a theory, we should
+not apply it everywhere, generously improve it or dismiss it. Usually, there aren't one ultimate theory that has its own
+sovereignty [@Higgins_2004]. Each theory has its own assumptions. "Making different predictions is not hte same as
+making competing predictions". [@Higgins_2004]. a phenomenon can be explained by multiple theories, with different
+reasons, which shows its robustness.
 
 A theory must be:
 
-1.  Testable\
-2.  Coherent\
-3.  Economical/Parsimonious\
-4.  Generalizable\
+1.  Testable
+2.  Coherent
+3.  Economical/Parsimonious
+4.  Generalizable
 5.  Explanability
 
 A theory is like a child. Developing a theory is like parenting.
 
--   Don't abuse\
--   DOn't spoil\
+-   Don't abuse
+-   Don't spoil
 -   Knowing your theory and its limitation.
 
-[@miller1995, pp. 5-30] Assumption of interpersonal communication: " when people communicate, they make predictions about the effects, or outcomes, of their communication behavior". Prediction can be made consciously or unconsciously; hence, communication has creative element. Two sets of factors influence prediction:
+[@miller1995, pp. 5-30] Assumption of interpersonal communication: " when people communicate, they make predictions
+about the effects, or outcomes, of their communication behavior". Prediction can be made consciously or unconsciously;
+hence, communication has creative element. Two sets of factors influence prediction:
 
 -   **situational** set: "the given, unalterable features of a communication setting".\
--   **dispositional** set: "our past experience and our future expectations dispose us to look for certain behaviors and to interpret them in certain ways".
+-   **dispositional** set: "our past experience and our future expectations dispose us to look for certain behaviors and
+    to interpret them in certain ways".
 
 Levels of analysis used in making prediction
 
-1.  Cultural:\
+1.  Cultural:
 
-    -   culture is "the sum of characteristics, beliefs, habits, practices, and language shared by a large group of people, ". + can be either heterogeneous or homogeneous (homogeneity increases prediction accuracy).\
-    -   norm is "a recurrent, observable pattern", which help predict behavior\
-    -   ideology also helps predict responses to certain messages.\
-    -   prediction based on cultural data can be erroneous. The more culturally diverse a society is, the more error that you will make.\
+    -   culture is "the sum of characteristics, beliefs, habits, practices, and language shared by a large group of
+        people, ". + can be either heterogeneous or homogeneous (homogeneity increases prediction accuracy).
+    -   norm is "a recurrent, observable pattern", which help predict behavior
+    -   ideology also helps predict responses to certain messages.
+    -   prediction based on cultural data can be erroneous. The more culturally diverse a society is, the more error
+        that you will make.
 
-2.  Sociological:\
+2.  Sociological:
 
-    -   A membership group is "a class of people who share certain common, characteristics, either by their own volition or because of some criteria imposed by the predictor".\
+    -   A membership group is "a class of people who share certain common, characteristics, either by their own volition
+        or because of some criteria imposed by the predictor".
 
-3.  Psychological\
+3.  Psychological
 
-    -   Sources of behavioral differences: - learning experiences\
-    -   reactions to experiences\
+    -   Sources of behavioral differences: - learning experiences
+    -   reactions to experiences
     -   perception by observers of behavior.
 
 "Generally know a little about a great number of people and a lot about very few people"
 
 $$
-Generalization  \\
-Cultural \\
+\text{Generalization}  \\
+\text{Cultural} \\
 \downarrow \\
-Sociological \\
+\text{Sociological} \\
 \downarrow \\
-Psychological 
+\text{Psychological} 
 $$
 
-"When predictions about communication outcomes are based primarily on a cultural or sociological level of analysis, the communicators are engaged in noninterperosnla communication; when predictions are based primarily on a psychological level of analysis, the communicators are engaged in interpersonal communication".
+"When predictions about communication outcomes are based primarily on a cultural or sociological level of analysis, the
+communicators are engaged in non-interpersonal communication; when predictions are based primarily on a psychological
+level of analysis, the communicators are engaged in interpersonal communication".
 
-Cultural and sociological = noninterpersonal communication\
+Cultural and sociological = non-interpersonal communication\
 Psychological = interpersonal communication.
 
 Stimulus generalization (may have more predictive errors) vs. stimulus discrimination.
 
--   We make stimulus generalization initially because it is not feasible to base our prediction on psychological data.\
+-   We make stimulus generalization initially because it is not feasible to base our prediction on psychological data.
 
--   very little interpersonal communication in our society:\
+-   very little interpersonal communication in our society:
 
-    -   teleological view: we should strive for interpersonal level\
-    -   pragmatic view: we don't need to get to the interpersonal level\
+    -   teleological view: we should strive for interpersonal level
+    -   pragmatic view: we don't need to get to the interpersonal level
 
--   not every communicate interpersonally in similar ways.\
+-   not every communicate interpersonally in similar ways.
 
--   the difference between interpersonal communication and interpersonal relationships is that in interpersonal relationship, two people must be communicating interpersonally
+-   the difference between interpersonal communication and interpersonal relationships is that in interpersonal
+    relationship, two people must be communicating interpersonally
 
 <br>
 
@@ -88,23 +102,23 @@ Stimulus generalization (may have more predictive errors) vs. stimulus discrimin
 
 There are two growth trajectories for love relationships:
 
--   whirlwind\
+-   whirlwind
 -   friendship
 
 The interpenetration of communication and relationships
 
--   Principle 1: Relational Definition emerge from recurring episodic enactments.\
+-   Principle 1: Relational Definition emerge from recurring episodic enactments.
 
-    -   An episode is "a nonverbal and verbal communication event".\
-    -   relational translation: attach relationship meaning to the episodes.\
+    -   An episode is "a nonverbal and verbal communication event".
+    -   relational translation: attach relationship meaning to the episodes.
     -   "the more frequently a relational definition is reinforced by episodic enactments, the more potent it becomes".
 
--   Principle 2: Relationship Definitions "Frame" or Contextualize Communication Behavior\
+-   Principle 2: Relationship Definitions "Frame" or Contextualize Communication Behavior
 
-    -   :the meaning of our communication behaviors is dependent on the relational frame where they occur".\
-    -   "communication is interpreted and associated within given relational definitions".\
+    -   "the meaning of our communication behaviors is dependent on the relational frame where they occur".\
+    -   "communication is interpreted and associated within given relational definitions".
 
--   Principle 3: Relationship types are not necessarily mutually exclusive\
+-   Principle 3: Relationship types are not necessarily mutually exclusive
 
 -   Principle 4: relationship Definition and communication episodes reciprocally frame one another
 
@@ -112,16 +126,18 @@ The interpenetration of communication and relationships
 
 **A Theory of Embeddedness**
 
--   Relationship Constellations\
+-   Relationship Constellations
 
-    -   definition: "interconnected networks that form patterns".\
-    -   the constellations influences initiating relationships by:\
-    -   the network we are in\
-    -   social norms\
-    -   the postilion of initiator and potential partner in the network\
-    -   direct action, or approval/disapproval by others in the network on your choice.\
-    -   density of the network also influences the overall constellation.\
-    -   not only actual actions by the constellation members that affect you, even your anticipation of the reaction of those members also affects you. [@Surra_1990] + people are influenced by the support or disapproval of the network\
+    -   definition: "interconnected networks that form patterns".
+    -   the constellations influences initiating relationships by:
+    -   the network we are in
+    -   social norms
+    -   the postilion of initiator and potential partner in the network
+    -   direct action, or approval/disapproval by others in the network on your choice.
+    -   density of the network also influences the overall constellation.
+    -   not only actual actions by the constellation members that affect you, even your anticipation of the reaction of
+        those members also affects you. [@Surra_1990] + people are influenced by the support or disapproval of the
+        network
     -   "Romeo and Juliet effect": disapproval of parents strengthens relationship's bonds.
 
 -   Cultural Considerations
@@ -134,11 +150,13 @@ The interpenetration of communication and relationships
 
 **Paradigm 1: The Individual Self**
 
-Self and Others are "independent units that are connected by the relational thread." Or mere overlap of the two separate autonomous selves who just happen to have enough in common to create a relationship."
+Self and Others are "independent units that are connected by the relational thread." Or mere overlap of the two separate
+autonomous selves who just happen to have enough in common to create a relationship."
 
 Relationship difficulties are identified by the degree of blame of the other.
 
-Social exchange model (assume that we try to maximize profit in relationships ). Hence, we focus on building self (self-satisfaction), not relationship.
+Social exchange model (assume that we try to maximize profit in relationships ). Hence, we focus on building self
+(self-satisfaction), not relationship.
 
 Postmodern thinking:
 
@@ -148,11 +166,14 @@ Constructedness: see "people as forming and reforming their selves within each r
 
 **Paradigm 2: The Embedded Self**
 
-"The identity of "I" is possible solely through the identity of the other who recognizes me, and who in turn is dependent upon my recognition". (Wilber, 1932, p.272)
+"The identity of "I" is possible solely through the identity of the other who recognizes me, and who in turn is
+dependent upon my recognition". (Wilber, 1932, p.272)
 
 **The Dialectical Perspective**\
-There is a dynamic interplay between opposites that we need to look at. Everything is interdependent. trade off between exactitude of factual language and seeing things in a totality way.\
-External (e.g., contradiction between autonomy and integration, me vs. we, independence vs. interdependence, or expressiveness vs. protectiveness) and internal dialectical tensions in relationships
+There is a dynamic interplay between opposites that we need to look at. Everything is interdependent. trade off between
+exactitude of factual language and seeing things in a totality way.\
+External (e.g., contradiction between autonomy and integration, me vs. we, independence vs. interdependence, or
+expressiveness vs. protectiveness) and internal dialectical tensions in relationships
 
 **Paradigm 3: Nonseparable self/other/relationship**
 
@@ -168,34 +189,38 @@ Transformation = Expression + Connection
 
 ground relational dialectics theory:
 
-1.  Dialogue as constitutive process\
+1.  Dialogue as constitutive process
 
-    -   "Communication as a conduit through which a variety of antecedent psychological ans sociological factors are played out".\
-    -   Alternative: "Communication as constitutive": communication constitutes persons and relationships.\
-    -   "An individual knows self only from the outside, as he or she conceives others see him or her. The self, then, is invisible to itself and dependent for its existence on the other". Hence, self is "a fluid and dynamic relation between self and other". + self-becoming resembles self-expansion model.
+    -   "Communication as a conduit through which a variety of antecedent psychological ans sociological factors are
+        played out".
+    -   Alternative: "Communication as constitutive": communication constitutes persons and relationships.
+    -   "An individual knows self only from the outside, as he or she conceives others see him or her. The self, then,
+        is invisible to itself and dependent for its existence on the other". Hence, self is "a fluid and dynamic
+        relation between self and other". + self-becoming resembles self-expansion model.
 
-2.  Dialogue as dialectical flux\
+2.  Dialogue as dialectical flux
 
-    -   Dialogue is "simultaneously unity and difference". hence, social life is a dialogue "constituted in the dialectical, or contradictory, interplay of centripetal and centrifugal forces".\
-    -   contrast to Hegelian approach to dialogue\
+    -   Dialogue is "simultaneously unity and difference". hence, social life is a dialogue "constituted in the
+        dialectical, or contradictory, interplay of centripetal and centrifugal forces".
+    -   contrast to Hegelian approach to dialogue
 
-3.  Dialogue as aesthetic moment\
+3.  Dialogue as aesthetic moment
 
-4.  Dialogue as utterance\
+4.  Dialogue as utterance
 
 5.  Dialogue as critical sensibility
 
 Braithwaite's Perspectives on interpersonal communication
 
--   Numerical Perspective\
--   Situational and contextual perspective\
--   Developmental Perspective\
--   Levels of Info Perspective [@miller1995]\
+-   Numerical Perspective
+-   Situational and contextual perspective
+-   Developmental Perspective
+-   Levels of Info Perspective [@miller1995]
 -   Relational (Stewart) focusing on the content.
 -   Constitutive Approach [@Baxter_2004]
 
 Def of IPC = when predictions about comm outcomes are based primarily on a psych level of analysis (p. 22)\
-\* IPC occurs when:\
+IPC occurs when:\
 1. Predictions are based on personal level info\
 2. Have direct experience with other person\
 3. Initial interactions are rarely interpersonal\
@@ -206,19 +231,21 @@ Chapter 2 (Stewart (2019))
 
 Communication is "the processes humans use to construct meaning together".
 
-1.  Since humans live in worlds of meaning that are constantly constructed, none can affect the process significantly.\
-2.  Culture figures (ethnicity, gender, age, social class, sexual orientation, etc) affect communication and how you respond to it.\
-3.  we collaboratively build the sense of selves (i.e., identity) when engaging in communication.\
-4.  Conversations are a tools for communication.\
+1.  Since humans live in worlds of meaning that are constantly constructed, none can affect the process significantly.
+2.  Culture figures (ethnicity, gender, age, social class, sexual orientation, etc) affect communication and how you
+    respond to it.
+3.  we collaboratively build the sense of selves (i.e., identity) when engaging in communication.
+4.  Conversations are a tools for communication.
 5.  A useful skills in communicating is "nexting".
 
-Communication is "the continuous, complex, collaborative, process of verbal and nonverbal meaning-making through which we construct the worlds of meaning we inhabit."
+Communication is "the continuous, complex, collaborative, process of verbal and nonverbal meaning-making through which
+we construct the worlds of meaning we inhabit."
 
 Worlds of meanings:
 
 -   space
 -   time
--   laws of physics\
+-   laws of physics
 -   culture
 -   relationships
 -   work (for adults).
@@ -229,12 +256,14 @@ Interpersonal Communication:\
 Characteristics that distinguish persons across cultures:
 
 -   uniqueness: noninterchangeability (either experiential or genetic)
--   unmeasurability: human can't be described by parts. even though cognitive scientists try to assign schematas or cognitive patters/ Emotions and feeling are embedded in communications.\
+-   unmeasurability: human can't be described by parts. even though cognitive scientists try to assign schematas or
+    cognitive patters/ Emotions and feeling are embedded in communications.
 -   Responsiveness is different from reaction.
 -   reflectiveness: being aware of what's around, but also aware of your own awareness.
 -   addressability: difference between talking to and talking with (i.e., addressable). directed or aimed at.
 
-"the term interpersonal labels the kind of communication that happens when the people involved talk and listen in ways that maximize the presence of the personal".
+"the term interpersonal labels the kind of communication that happens when the people involved talk and listen in ways
+that maximize the presence of the personal".
 
 [@Floyd_2014]
 
@@ -242,5 +271,6 @@ Interpersonal communication is defined as "Any communication at the intrapersona
 
 Boundary condition includes:
 
--   dyad relationships\
--   "IPC as close, supportive, relationship-maintaining communication occurring between people (whether in a dyad or not"
+-   dyad relationships
+-   "IPC as close, supportive, relationship-maintaining communication occurring between people (whether in a dyad or
+    not")
