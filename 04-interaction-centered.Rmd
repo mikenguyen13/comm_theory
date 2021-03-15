@@ -51,6 +51,103 @@ Application:
 (AET) [@Floyd_2001] contemplates that "people give and receive affection in ways that are adaptive or evolutionarily
 advantageous for their relationship." There is evidence that affection reduces stress.
 
+Assumptions of AET:
+
+-   procreation and survival are superodinate human goals
+-   Communication helps achieve these goals (consciously or unconsciously)
+-   traits that are desirable (i.e., advantageous) for superordinate goals will be passed on
+-   human communicative behaviors are only partially controlled by humans.
+
+AET's propositions:
+
+-   "the need and capacity for affection are inborn"
+
+    -   we don't need to learn to feel affection(i.e., innate)
+
+    -   the need for affection is fundamental
+
+-   "affectionate feelings and affectionate expression are distinct experiences that often, but need not, covary"
+
+-   "affectionate communication is adaptive with respect to human viability and fertility"
+
+-   "humans vary in their optimal tolerances for affection and affectionate behavior"
+
+-   "affectionate behaviors that violate the range of optimal tolerance are physiologically aversive"
+
+[@Floyd_1998] propose 3 forms of affection display:
+
+-   Verbal communication (e.g., spoken or written)
+-   Direct nonverbal (e.g., nonlinguistic or paralinguistic behaviors)
+-   Indirect Nonverbal (e.g., behaviors that convey affection via social or material support)
+
+Types of affectionate communication research:
+
+-   Relationships: certain relationships are more affectionate than others because it relates to the relatedness of
+    genes' survivability
+
+    -   fathers gives more attention to children with higher probability to reproduce.
+
+    -   "humans engage in affectionate behaviors, both genuinely and deceptively, within selective romantic
+        relationships in order to increase relational trust, closeness, and satisfaction.", which in turn, increase
+        survival and procreation.
+
+-   Health
+
+    -   One can have health benefits by offering affection.
+
+    -   "highly affectionate people report higher self-esteem, general mental health, social engagement, and life
+        satisfaction,a s well as lower susceptibility to depression and stress, than less-affectionate
+        people"[@Floyd_2002]
+
+Application:
+
+[@Floyd_2009]
+
+-   kissing improves perceived stress, relationship satisfaction, and total serum cholesterol
+
+<br>
+
+[@Horan_2013]
+
+-   motivation for deceptive affection:
+
+    -   face-saving
+
+    -   conflict management/ avoidance
+
+    -   emotion management
+
+-   feelings of affection is different from communicating affection
+
+    -   feeling affection: the feeling of warmth and fondness toward an individual
+
+    -   communicating affection: feelings of fondness, support, and love
+
+<br>
+
+[@Davis_2019]
+
+-   Controlling images (.e.g, angry black woman or mammy). Black women are thought to be self-sufficient, perseverant,
+    authentic.
+
+-   Strong Black woman collective theory: "Black women enact communication behaviors that affirm strength in each other
+    ... to delineate a safe space to concurrently promote solidarity within the collective and confront oppressive
+    force."
+
+    -   Black women use "distinct communication practices (i.e., code-switching, assertive and verbal messages, and
+        culturally-nuanced speech codes)"
+
+    -   the assemblage of Black women
+
+    -   members reinforce each others virtues of strength
+
+    -   enable members to confront oppressive structure, but also impede vulnerability and emotionality within
+
+-   Strength regulation like emotion regulation
+
+-   "strength regulation contributed to more derogative comments about aggressors during supportive discussions, and
+    support seekers were less satisfied in their relationships with white women after the derogative conversations"
+
 ### Tend and Befriend theory
 
 Under the fight or flight framework, people tend to affiliate with others under stress [@Taylor_2012]. Women have
@@ -123,6 +220,22 @@ Principles of accommodation:
     2.  Reacted to negatively by recipients (e.g., recipients will perceive speaker to be lacking in empathy and trust)
 
 CAT absorbs both interpersonal and intergroup process, even though they are considered orthogonal.
+
+Application:
+
+[@Chen_2016]
+
+-   The characteristics of their communication partner (mediated by specific communication behaviors imagined by the
+    participant for two of the three trait dimensions such as overaccommodation for perceptions of competence, humorous
+    communication for perceptions of sociability) influences participants' stereotypes of older adult
+
+    -   overaccommendation can be seemed patronizing, which reinforces stereotypes
+
+-   Imagined interaction involves individuals' spontaneous thoughts regarding interpersonal communication with a real
+    person, which typically occurs before an actual interaction with the person [@Honeycutt_2014].
+
+-   based on stereotype content model (SCM), groups are stereotyped based on two dimensions: warmth and competence
+    [@Fiske_2007]. Later warmth was further segmented into sociability and morality (i.e., trustworthiness)
 
 ### Communication Theory of Identity
 
@@ -222,19 +335,5 @@ We want others to value the same attributes that we ourselves value [@Baxter_200
 -   Intersectioanality and Race in Bullying
 
 <br>
-
-[@Chen_2016]
-
--   The characteristics of their communication partner (mediated by specific communication behaviors imagined by the
-    participant for two of the three trait dimensions such as overaccommodation for perceptions of competence, humorous
-    communication for perceptions of sociability) influences participants' stereotypes of older adult
-
-    -   overaccommendation can be seemed patronizing, which reinforces stereotypes
-
--   Imagined interaction involves individuals' spontaneous thoughts regarding interpersonal communication with a real
-    person, which typically occurs before an actual interaction with the person [@Honeycutt_2014].
-
--   based on stereotype content model (SCM), groups are stereotyped based on two dimensions: warmth and competence
-    [@Fiske_2007]. Later warmth was further segmented into sociability and morality (i.e., trustworthiness)
 
 ## Critical Approaches to IPC Research
