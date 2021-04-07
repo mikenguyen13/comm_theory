@@ -23,11 +23,12 @@ communication-accommodation-theory
 communication-theory-of-identity
 application
 critical-approaches-to-ipc-research
+critical-feminist-theories
 relationship-centered
 affection-exchange-theory-1
-traslational-scholarship
-resilience-communciation-theories
-communciation-privacy-management-theory
+transnational-scholarship
+resilience-communication-theories
+communication-privacy-management-theory
 relational-turbulence-theory
 perspectives-on-organizational-communication
 strategy-of-discovery
@@ -40,4 +41,6 @@ socialization
 worklife
 emotions-and-organizing
 identity
+power-privilege
+tension-contradiction-and-paradox
 organizational-change

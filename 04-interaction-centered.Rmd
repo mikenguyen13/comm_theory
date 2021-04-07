@@ -148,6 +148,16 @@ Application:
 -   "strength regulation contributed to more derogative comments about aggressors during supportive discussions, and
     support seekers were less satisfied in their relationships with white women after the derogative conversations"
 
+<br>
+
+[@Gilchrist_Petty_2019]
+
+-   engaged-to-be-married has the highest negative attitudes regarding cross-sex best friendships.
+-   attitudes toward cross-sex best friendships mediate the relationship between (how jealousy experienced and
+    expressed) and (reactive jealousy experience and destructive jealousy expression)
+
+<br>
+
 ### Tend and Befriend theory
 
 Under the fight or flight framework, people tend to affiliate with others under stress [@Taylor_2012]. Women have
@@ -337,3 +347,154 @@ We want others to value the same attributes that we ourselves value [@Baxter_200
 <br>
 
 ## Critical Approaches to IPC Research
+
+List of interpersonal communication theories under critical approaches:
+
+-   Relational dialectics Theory
+-   Narrative performance Theory
+-   Family of Feminist theories
+
+Difference between postmodern critical approach and modern tradition is how power is conceptualized, but both agree that
+power has impact on communicative life with the goals of emancipation and empowerment.\
+Critical modern hope to free people from socially oppressed system, but postmodern critical scholars view the world as
+constant struggle for dominant discourses.
+
+Power definition:
+
+-   Post-positivistic tradition: "as an individual level variable based on the various kinds of resources the individual
+    posses" (Berger, 1994).
+-   modern critical: "as a systemic construct that exists external to the individuals who operate within those systems."
+    [@Baxter_2008, pp. 273]
+
+Critical Modern Tradition:
+
+-   False consciousness: lack of awareness of constraints imposed by system (Pine, 1993).
+
+-   goal: dismantle false consciousness to free people
+
+-   Communication is a reflection of systematic constraint
+
+-   Application:
+
+    -   Gender as a social system, gender is a range of ideals (masculine and feminism).
+
+    -   Relational Labor as a social system
+
+Postmodern Tradition
+
+-   Resist thinking of power as top-down, and advocate for power is bottom-up-and-out dynamics and power is constantly
+    met with resistant, which means it is unstable and fluid.
+
+-   Comminciaiton is the social world (not a reflection of it).
+
+-   Application:
+
+    -   Uncertainty as positive precondition for change
+
+    -   Self-making instead of Self-disclosure: individuals are not intact.
+
+To evaluate critical approaches to interpersonal communication, we need to consider:
+
+-   ethics: (1) how your position impacts what is identifiable, and that which is beneficial
+-   change: can your change emancipate the marginalized and oppressed?
+
+## Critical Feminist Theories
+
+-   Feminist Theories
+
+    -   "Feminism" is "defined as the belief that men and women are equal and should have equal rights and
+        opportunities in all spheres of life---personal, social, work, and public". [@Baxter_2008, pp. 290]
+
+        -   Gender (different from sex): social meaning attached to biological distinct, which is embedded in
+            communication
+
+        -   Patriarchy: " a system that reflects primarily the interests, values, perspectives, and experiences of men,
+            as a group." [@Baxter_2008, pp. 290]
+
+-   Critical Theories:
+
+    -   "identify prevailing structures and practices that create or uphold disadvantage, inequity, or oppression, and
+        to point the way toward alternatives that remote more egalitarian relationships, groups, and societies.
+        [@Baxter_2008, pp. 292]
+
+-   The production of the two theories:
+
+    -   The recursive relationship between how cultural structures and practices differently and inequitably shape
+        women's and men's lives and communication practice and vice versa.
+
+-   Assumptions:
+
+    -   "members of groups defined by sex, race, and other factors occupy distinct positions in a society - those are
+        their social location."
+
+-   Methodological Implication: examination of power that is both formal and informative ones.
+
+-   Power:
+
+    -   in relation to unequal status, privilege.
+
+-   Communication: with less communication on a subject, we'd have less knowledge of it, or even notice it.
+
+    -   Hence, we should name and increase social awareness of women's experiences.
+
+-   Examples
+
+    -   Sexual harassment
+
+    -   Date rape
+
+    -   Marital rape
+
+    -   Second Shift
+
+    -   Conversational maintenance work
+
+-   Evaluation:
+
+    -   Parsimonious: few concepts (gender, power, dominance).
+
+    -   Limited explanability since it focuses on sex and gender, and limited utility: small subset of people.
+
+Application:
+
+[@Sanford_2019]
+
+-   Based on Co-Cultural Theory, the authors found that even when they constitute a large part of an institution's
+    population, Hispanic students still feel the need to behave under White norms (assimilationist strategies).
+
+<br>
+
+[@Ross_2016]
+
+-   Modification s to office logistic and and practitioners' behavior can increase a healthy communication environment
+    among trans-patient-practitioner
+
+<br>
+
+[@Nuru_2018]
+
+-   memorable messages about race:
+
+    -   denial of racism
+
+    -   preparation for bias
+
+    -   promotion of mistrust
+
+-   these memorable message help make sense of racial hierarchies in Cost Rica and racial socialization in the global
+    contexts.
+
+<br>
+
+[@Suter_2017]
+
+Critical Interpersonal and Family Communication framework should consider:
+
+-   power
+-   bi-directionality between private and public realms
+-   critique/resistance/transformation of the status quo in the service of social-justice ends
+-   author reflexivity
+
+"(a) What is my impetus for speaking and writing? (b) Where am I speaking from? (c) To whom am I accountable in this
+process? (d) What are the potential material and discursive effects resulting from my speaking and writing" (Yep, 2010,
+p. 173)

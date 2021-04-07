@@ -1,18 +1,28 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # Emotions and Organizing
 
 [@Mumby_1992]
 
-bounded rationality was developed around patriarchal modes of organizing.
+bounded rationality was developed around patriarchal modes of
+organizing.
 
 -   Deconstruction benefits feminism:
 
-    -   "exposes the political nature of categories" (e.g., nature, and gender)
+    -   "exposes the political nature of categories" (e.g., nature, and
+        gender)
 
-    -   exposes oppressive system of hierarchy by challenging dichotomous thinking.
+    -   exposes oppressive system of hierarchy by challenging
+        dichotomous thinking.
 
     -   helps rethinking power and identity
 
--   Bounded emotionality was created to challenge bounded rationality, but not to be its opposite.
+-   Bounded emotionality was created to challenge bounded rationality,
+    but not to be its opposite.
 
 -   bounded rationality grounded in "satisficing"
 
@@ -26,22 +36,28 @@ bounded rationality was developed around patriarchal modes of organizing.
 
     -   the treatment of emotion as a form a labor
 
--   [@hochschild2012] defined emotional labor as "the way individuals change or manage emotions to make them appropriate
-    or consistent with a situation, a role or an expected organizational behavior."
+-   [@hochschild2012] defined emotional labor as "the way individuals
+    change or manage emotions to make them appropriate or consistent
+    with a situation, a role or an expected organizational behavior."
 
-    -   emotional labor becomes a commodity for organization to achieve its goal.
+    -   emotional labor becomes a commodity for organization to achieve
+        its goal.
 
-    -   *However, I disagree with this idea because people can be happier even when they fake smile.*
+    -   *However, I disagree with this idea because people can be
+        happier even when they fake smile.*
 
--   bounded emotionality is "an alternative mode of organizing in which nurturance, caring, community, supportiveness,
-    and interrelatedness are fused with individual responsibility to shape organizational experience."
+-   bounded emotionality is "an alternative mode of organizing in which
+    nurturance, caring, community, supportiveness, and interrelatedness
+    are fused with individual responsibility to shape organizational
+    experience."
 
--   bounded emotionality also tries to reduce emotional labor and gendered divisions of labor (e.g., women can express
-    work feeling).
+-   bounded emotionality also tries to reduce emotional labor and
+    gendered divisions of labor (e.g., women can express work feeling).
 
-After reading this piece, I was still not convinced that bounded rationality is rooted in patriarchy. Authors argued
-that since previous researchers are so embedded in the bureaucratization of organization that they don't realize
-power-knowledge relationship.
+After reading this piece, I was still not convinced that bounded
+rationality is rooted in patriarchy. Authors argued that since previous
+researchers are so embedded in the bureaucratization of organization
+that they don't realize power-knowledge relationship.
 
 <br>
 
@@ -50,7 +66,8 @@ power-knowledge relationship.
 Emotion management in organization:
 
 -   at the center is "professionalism"
--   both positive and negative emotions, need to be display in appropriate ways
+-   both positive and negative emotions, need to be display in
+    appropriate ways
 -   the appropriate way of displaying negative emotions is masking them.
 -   using emotions to help others, not for oneself.
 
@@ -62,27 +79,31 @@ Organizations are indoctrinated to favor positive emotions.
 
 [@Rivera_2014]
 
-Using the framework of emotional taint to understand dirty works (e.g., border patrol).
+Using the framework of emotional taint to understand dirty works (e.g.,
+border patrol).
 
-Sometimes dirty work does not exclusively relate to physical or danger activities but include those social taint (e.g.,
-exotic dancers)
+Sometimes dirty work does not exclusively relate to physical or danger
+activities but include those social taint (e.g., exotic dancers)
 
-Emotional labor "includes outward performances of emotions" (e.g., smiling, yelling, showing no emotions) is socially
-constructed.
+Emotional labor "includes outward performances of emotions" (e.g.,
+smiling, yelling, showing no emotions) is socially constructed.
 
 Sensemaking of identities, dirty work by using past works.
 
-This line of work (e.g., law enforcement) prefers more masculine emotional labor (e.g., use of force continuum)
+This line of work (e.g., law enforcement) prefers more masculine
+emotional labor (e.g., use of force continuum)
 
 Stoicism is a form of emotional labor. Emotional labor is dirty work.
 
-Criticism of feminine care work and compassion, which is parallel to men's struggle with perception of sexuality when
-they act caring
+Criticism of feminine care work and compassion, which is parallel to
+men's struggle with perception of sexuality when they act caring
 
 Making sense of taint by expressing tensions:
 
--   Agents are at the crossroad of society's view of their work (e.g., positive and negative)
--   They have to switch between 2 types of emotional labor (e.g., stoicism and compassion)
+-   Agents are at the crossroad of society's view of their work (e.g.,
+    positive and negative)
+-   They have to switch between 2 types of emotional labor (e.g.,
+    stoicism and compassion)
 
 Emotional Taint Management:
 
@@ -94,29 +115,36 @@ Emotional Taint Management:
 
 -   emotions are expressed through communication
 
--   supervisor nonverbal immediacy influences subordinates' emotional experience (e.g., emotion work, and perceived
-    emotional support)
+-   supervisor nonverbal immediacy influences subordinates' emotional
+    experience (e.g., emotion work, and perceived emotional support)
 
--   Emotional response theory: people respond to external environmental stimuli (e.g., emotion inducing factor -
-    nonverbal immediacy by supervisors).
+-   Emotional response theory: people respond to external environmental
+    stimuli (e.g., emotion inducing factor - nonverbal immediacy by
+    supervisors).
 
--   According to [@Mehrabian_1967], nonverbal immediacy are "communicative behaviors used to enhance physical or
-    psychological closeness and reduce interpersonal distance" (e.g., touching, nodding, smiling).
+-   According to [@Mehrabian_1967], nonverbal immediacy are
+    "communicative behaviors used to enhance physical or psychological
+    closeness and reduce interpersonal distance" (e.g., touching,
+    nodding, smiling).
 
--   [@titsworth2010] defined three dimensions of student emotional experience in response to teacher communication:
+-   [@titsworth2010] defined three dimensions of student emotional
+    experience in response to teacher communication:
 
     -   Emotional valance: positive/negative reactions
 
-    -   Emotion work: intentional management of emotional expression, could lead to emotional exhaustion or burnout
+    -   Emotion work: intentional management of emotional expression,
+        could lead to emotional exhaustion or burnout
 
     -   Emotional support: perception of receiving emotional support
 
--   "Supervisor NI will be positively correlated with subordinates' perceptions of received emotional support from the
-    supervisor"
+-   "Supervisor NI will be positively correlated with subordinates'
+    perceptions of received emotional support from the supervisor"
 
--   According to [@RUBIN_1988], based on goal-oriented behaviors, there are six motives for interpersonal communication:
+-   According to [@RUBIN_1988], based on goal-oriented behaviors, there
+    are six motives for interpersonal communication:
 
-    -   relationally oriented motives (used to facilitate positive encounters)
+    -   relationally oriented motives (used to facilitate positive
+        encounters)
 
         -   pleasure
 
@@ -132,7 +160,8 @@ Emotional Taint Management:
 
         -   control
 
--   Supervisor NI enhance employees' received emotional support, and reduce employees' engagement in emotion work
+-   Supervisor NI enhance employees' received emotional support, and
+    reduce employees' engagement in emotion work
 
 <br>
 
@@ -140,29 +169,35 @@ Emotional Taint Management:
 
 [@Tracy_2005].
 
--   The self is "a product or an effect of competing, fragmentary,a nd contradictory discourse [@Tracy_2005]
+-   The self is "a product or an effect of competing, fragmentary,a nd
+    contradictory discourse [@Tracy_2005]
 
--   Since we spend most of our lives at work, identities are now typically based on organizational and workgroups.
+-   Since we spend most of our lives at work, identities are now
+    typically based on organizational and workgroups.
 
--   People performing "dirty" work typically perform and perceive different selves (real vs. fake)
+-   People performing "dirty" work typically perform and perceive
+    different selves (real vs. fake)
 
 -   There are no real or fake, but "crystallized"
 
     -   multi-dimension, (multi facets, and complex).
 
--   Constituted Self: one is a thinking, feeling subject, and social agent
+-   Constituted Self: one is a thinking, feeling subject, and social
+    agent
 
 -   Deep vs. surface acting: both are separated from the "real" self
 
     -   deep acting = change how they feel
 
-    -   surface acting = outward expression changed without changing internal feeling
+    -   surface acting = outward expression changed without changing
+        internal feeling
 
 -   Emotional labor creates emotive dissonance/discomfort
 
 -   but we should conceptualize self as single self.
 
--   under the power discourse, organization prefers the dichotomized category of self.
+-   under the power discourse, organization prefers the dichotomized
+    category of self.
 
 -   should not call real, but "preferred" self
 
@@ -172,13 +207,16 @@ Emotional Taint Management:
 
 [@Stephens_2013]
 
--   Using social identity theory, [@Stephens_2013] hypothesize and find that people's identification with a message
-    source (HIT- health information technologies) mediates the effect of social media on outcomes.
+-   Using social identity theory, [@Stephens_2013] hypothesize and find
+    that people's identification with a message source (HIT- health
+    information technologies) mediates the effect of social media on
+    outcomes.
 
--   According to social identity theory (SIT), one of the aspect of identity is affiliated with organization.
+-   According to social identity theory (SIT), one of the aspect of
+    identity is affiliated with organization.
 
-    -   Organizational identification increase affect involvement, satisfaction and organizational commitment
-        [@Ashforth_2008]
+    -   Organizational identification increase affect involvement,
+        satisfaction and organizational commitment [@Ashforth_2008]
 
 -   HIT can be either
 
@@ -190,15 +228,17 @@ Emotional Taint Management:
 
 [@Meisenbach_2014]
 
--   In the context of voluntary work, identities are (re)created via communicative behaviors.
--   Voluntary works are ways to enact participants' nested identities (e.g., choir, music and family identities).
+-   In the context of voluntary work, identities are (re)created via
+    communicative behaviors.
+-   Voluntary works are ways to enact participants' nested identities
+    (e.g., choir, music and family identities).
 
 <br>
 
 [@Compton_2016]
 
--   Applying CTI (communication theory of identity) to the context of organizational employees managing their sexual
-    identity.
+-   Applying CTI (communication theory of identity) to the context of
+    organizational employees managing their sexual identity.
 
 -   Identity gap exists between
 
@@ -216,4 +256,304 @@ Emotional Taint Management:
 
     -   discriminatory
 
--   don't scarify your life for your job (you should check your policy first)
+-   don't scarify your life for your job (you should check your policy
+    first)
+
+<br>
+
+# Power & Privilege
+
+organizational power negotiated with individual power to create an
+enmeshed privileges that we see
+
+[@de_la_Garza_2020]
+
+-   Hashtag is just a show for public solidarity without real
+    substantive changes
+-   we must shed light on marginalized groups, not only celebrity voices
+-   shouldn't normalize the \#MeToo, but it should serve to put
+    discomfort on perpetrators.
+
+<br>
+
+[@Gan_2020]
+
+-   Since university employees are constantly silent, they feel that
+    they are belittle, and their efforts are futile.
+-   Just like Plato's story of the cave, the perceived reality are only
+    reflection of manipulated images of the truth, university with
+    organizational power only see what they want to see. If it allows
+    voices of its employees to be heard, the reality could be different
+    or even improved.
+
+<br>
+
+[@D_Enbeau_2013]
+
+-   two paradoxes in practice:
+
+    -   paradox of consistency: expected consistency between
+        organizational philosophy and practice, but this alignment
+        inhibits empowerment.
+
+        -   Solution:
+
+            -   distinction between meaningful and non-meaningful work
+
+            -   distinction between work and non-work.
+
+    -   paradox of transparency: "employees' desire for clarity of
+        empowerment meanings in client interactions, goals,a nd
+        outcomes."
+
+        -   Solutions: staff has alternative meanings of empowerment.
+
+<br>
+
+[@Kantola_2014]
+
+-   Mediatization of corporate management
+
+-   Media has become tools of power of corporate power within flexible
+    capitalism.
+
+-   Mediatization of power:
+
+    -   mediatization has 4 processes [@Schulz_2004]:
+
+        -   extension: communication extends the communication
+            capacities of the CEO
+
+        -   substitution: replace the controlling hierarchies of
+            supervision
+
+        -   amalgamation: amalgamated with the exercise of power in
+            corporate capitalism
+
+        -   accommodation: to media by planning their communication
+            strategies.
+
+    -   media prospers under the structures of power
+
+    -   mediatization of CEOs:
+
+        -   changes in the media
+
+        -   changes in corporate capitalism
+
+-   Media Logic in Corporate Life
+
+    -   media has gained CEO's coverage in the early twentieth century
+        [@Kantola_2014, pp. 31]
+
+-   Mediatization theory: media shapes and frames the processes and
+    discourse (conversation) of political communication and the society.
+
+-   industrial capitalism to flexible post-Fordist capitalism
+
+    -   But others called from managerial capitalism to investor
+        capitalism. (see Khurana).
+
+-   Mediatization and celebritization are intertwined
+
+-   CEOs use affective appeal to get affective power of the populace.
+
+    -   They use celebrity-making tactics.
+
+<br>
+
+**The web-of-power-exploring communication and social class**
+
+-   Social class is about power
+
+-   Power (Mumby, 1998):
+
+    -   Systems rationality perspective: struggle over scarce resources'
+        distribution
+
+    -   Interpretive perspective; centered in communication (how people
+        socially constructed shared meanings).
+
+    -   Critical perspective: power = domination where ruling class
+        dominates the working class.
+
+    -   Post-modern perspectives: power = fragmented and individual. And
+        the focus is on discourse.
+
+        -   Poststructuralism: modified vision of postmodernism, where
+            society is structured through discourse.
+
+    -   Feminism: patriarchy is power.
+
+    -   Power can also be viewed in relation to social class, age, race,
+        gender, sexuality, and ability
+
+-   Social class:
+
+    -   physically unmarked, but communicatively marked
+
+    -   inherently unstable in meaning, but also stable as the same
+        populations remain in the same social class strata
+
+    -   represents ongoing struggle
+
+    -   the web-of-power is weaved into social class
+
+    -   Social class talk:
+
+        -   text class (transcend body impediment) vs body class
+
+<br>
+
+# Tension, Contradiction, and Paradox
+
+[@Wood_1983]
+
+Difficulties experienced by women in American labor force are studied
+under:
+
+-   societal research: sex-role stereotypes
+
+-   organizational perspective: organizational structures that are
+    barriers
+
+-   individualistic research: based on personalities and activities that
+    make it difficult for women to be professionals.
+
+Paradox, mystification, and the double-bind
+
+Responses that Perpetuate the Double-binding Pattern
+
+-   acceptance
+
+-   counter-disqualification
+
+-   withdrawal
+
+Double-binds composed of:
+
+-   type of relational situation: complementary relationship with
+    unbalanced power structure
+
+-   paradox-creating communication: mixed messages
+
+-   responses (by person with less power) that solidify the pattern
+
+Mystification: "the symbolic processes whereby one socio-economic group
+misrepresents action in order to maintain its hegemony over another
+socio-economic group."
+
+-   mystification is a manifestation of bullying
+
+In Western culture, women's stereotypical roles:
+
+-   sex object,
+
+-   pet
+
+-   mother
+
+-   iron maiden
+
+Professional are thought of as:
+
+-   rationality
+
+-   power
+
+-   decisiveness
+
+-   activity
+
+-   objectivity
+
+-   toughness
+
+Paradoxes in organizations:
+
+-   powerlessness
+
+-   marginality and minority
+
+    -   success can be attributed to ease of task, perseverance, not
+        competence.
+
+    -   lone women status
+
+-   self-definition
+
+-   affirmative action
+
+-   training programs
+
+-   networks and mentor relationships
+
+Responses to paradox:
+
+-   responses that perpetuate the situation
+
+    -   acceptance
+
+    -   counter-disqualification
+
+    -   withdrawal
+
+-   responses that redefine the situation
+
+    -   interpret in a fresh frame-of-reference
+
+    -   redirection
+
+    -   confrontation
+
+-   responses that transcend the situation
+
+<br>
+
+[@Trethewey_2004]
+
+-   reframe organizational tension:
+
+    -   irrationality (e.g., paradox, contradiction, irony) is normal
+
+    -   irrationalities are gendered
+
+    -   irrationality is an applied concern
+
+<br>
+
+[@Way_2019]
+
+-   Youth Crew context
+
+-   tension between youths and adults in summer camp
+
+-   tension is a "'feeling state,' specifically the discomfort
+    experienced by organizational members when they encounter
+    organizational practices and structures that are contradictory or
+    paradoxical." [@Putnam_2016]
+
+-   Youth work is just preparatory experience for future work.
+
+-   Paradoxes
+
+    -   Providing vs. discounting oneself as worker
+
+    -   demanding confidence vs. orchestrating uncertainty
+
+    -   playing along vs. being playful
+
+<br>
+
+Acting to Alter Privilege by Maintaining the Structural-Performative
+Paradox by Sonja K. Foss
+
+-   paradoxical perspectives on privilege---the structural and the
+    performative
+
+-   paradoxes of privileges:
+
+    -   dispersal-divestment: disperse privilege, but also divest it.
+
+    -   alteration-reproduction: when you try to combat prvilidge, it
+        backfires
