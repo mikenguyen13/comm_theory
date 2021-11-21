@@ -415,10 +415,10 @@ ART predicts how your friend is likely to respond, based on your friend's percep
 
     1.  message content
 
-        -   efficacy (i.e., if the action is likely to resolve the problem)
-        -   feasibility (i.e., capacity to accomplish eh action)
+        -   efficacy (i.e., whether the action is likely to resolve the problem)
+        -   feasibility (i.e., capacity to accomplish the action)
         -   limitation
-        -   confirmation (whether he action is consistent with the recipient's intent)
+        -   confirmation (whether the action is consistent with the recipient's intent)
 
     2.  Style:
 

@@ -1,5 +1,7 @@
-book_filename: "book"
+book_filename: "Communication Theory"
 delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
+edit: https://github.com/mikenguyen13/comm_theory/edit/main/%s
+new_session: true
